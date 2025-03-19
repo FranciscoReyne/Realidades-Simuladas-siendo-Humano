@@ -27,7 +27,7 @@ La combinación de **técnicas psicológicas**, **neurociencia aplicada**, y el 
 
 ### **1. Fundamentos del Sueño Lúcido y Realidad Comprobada**
 
-El primer paso para inducir un sueño lúcido es reconocer que se está soñando. Esto se logra a través de la **técnica de Realidad Comprobada (Reality Checks)**, una práctica diaria que entrenará la mente a identificar los sueños de manera consciente. El autor ha utilizado esta técnica personalmente, realizando comprobaciones de realidad durante el día, como:
+El primer paso para inducir un sueño lúcido es reconocer que se está soñando. Esto se logra a través de la **técnica de Realidad Comprobada (Reality Checks)**, una práctica diaria que entrenará la mente a identificar los sueños de manera consciente. Yo he utilizado esta técnica personalmente, realizando comprobaciones de realidad durante el día, como:
 
 - **Mirar las manos**: Durante el día, mirar las manos con atención. En los sueños, las manos suelen verse distorsionadas o cambiar de forma.
 - **Leer un texto**: Leer un texto en un sueño suele ser difícil porque las palabras se distorsionan o cambian al intentar leerlas nuevamente.
