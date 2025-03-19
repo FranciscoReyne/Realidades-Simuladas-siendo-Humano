@@ -97,5 +97,5 @@ La eficacia de las técnicas será evaluada mediante el seguimiento del progreso
 
 Este proyecto busca empoderar a los individuos a través del **control de sueños lúcidos**, proporcionándoles una **guía práctica** basada en mi **experiencia personal** (Francisco Reyne).
 
-Creo que con la integración de **técnicas psicológicas**, **neurociencia**, y **tecnología**, los usuarios podrían explorar nuevas formas de **autoexploración** y **creatividad**, mejorando su bienestar emocional y psicológico mientras crean realidades simuladas dentro de sus sueños.
+Con la integración de **técnicas psicológicas**, **neurociencia**, y **tecnología**, los usuarios podrían explorar nuevas formas de **autoexploración** y **creatividad**, mejorando su bienestar emocional y psicológico mientras crean realidades simuladas dentro de sus sueños.
 
